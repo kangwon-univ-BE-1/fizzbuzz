@@ -1,6 +1,6 @@
 ---
-name: Sprint Backlog
-about: 할일 추가시 사용 할 것!
+name: 권순호
+about: fizzbuzz 구현
 title: ''
 labels: enhancement
 assignees: ''
@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 ## Description
+조건문으로 fizzbuzz기능 구현했습니다!
 
 ## Tasks
 

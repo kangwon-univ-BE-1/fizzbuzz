@@ -3,6 +3,8 @@ for i in range(1, 21):
         print("Fizz")
     elif i % 5 == 0:
         print("Buzz")
+    if i % 3 == 0 and i % 5 == 0:
+        print("fizzbuzz")  
     else:
         print(i)
 
